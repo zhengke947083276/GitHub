@@ -8,4 +8,8 @@ public class GitHub01 {
     public void S(){
         System.out.println("服务器！！！");
     }
+
+    public void C(){
+        System.out.println("在！！！");
+    }
 }
