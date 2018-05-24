@@ -5,4 +5,7 @@ public class GitHub01 {
     public void T(){
         System.out.println("成功！！！");
     }
+    public void S(){
+        System.out.println("服务器！！！");
+    }
 }
