@@ -12,4 +12,8 @@ public class GitHub01 {
     public void C(){
         System.out.println("在！！！");
     }
+    
+     public void D(){
+        System.out.println("在！！！");
+    }
 }
